@@ -1,0 +1,77 @@
+{
+  "skills": [
+      {
+          "id": "1",
+          "src": "./img/product-chain-1.png",
+          "title": "Front-End",
+          "description": "Complete HTML, CSS & Javascript along with frameworks like Bootstrap "
+      },
+      {
+          "id": "2",
+          "src": "./img/tag-1.png",
+          "title": "Back-End",
+          "description": "I am proficient in Node.js, with hands-on experience in server-side development "
+      },
+      {
+          "id": "3",
+          "src": "./img/feather-pen-2.png",
+          "title": "React",
+          "description": "Advanced Frontend concepts like state, event, materialUI with React."
+      },
+      {
+          "id": "4",
+          "src": "./img/feather-pen-1.png",
+          "title": "Databases",
+          "description": "Learn how to build a stable, reliable database - be it relational (SQL) or non-relational (MongoDB). "
+      }
+  ],
+  "portfolio": [
+      {
+          "id": "1",
+          "src": "./img/placeholder-image.png",
+          "title": "Calculator",
+          "description": "Created a calculator using react",
+          "Link":"./Calculator.jsx"
+      },
+      {
+          "id": "2",
+          "src": "./img/placeholder-image-1.png",
+          "title": "App Dashboard",
+          "description": "lorem ipsum dolor sit amet consectetur adipicing ",
+          "Link":"./Calculator.jsx"
+      },
+      {
+          "id": "3",
+          "src": "./img/placeholder-image-2.png",
+          "title": "Easy Rentn",
+          "description": "lorem ipsum dolor sit amet consectetur adipicing ",
+          "Link":"./Calculator.jsx"
+      }
+  ],
+  "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Dianne Russel",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "McDonald's"
+      }
+    ]
+}
