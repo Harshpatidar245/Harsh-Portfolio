@@ -41,7 +41,7 @@ export default function MyPortfolio() {
                 <p className="text-md">{item.description}</p>
               </div>
               {/* Use Link component to create a link */}
-              <Link to="/Calculator.jsx" className="text-sm portfolio--link">View Project
+              <Link to="/calculator" className="text-sm portfolio--link">View Project
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
