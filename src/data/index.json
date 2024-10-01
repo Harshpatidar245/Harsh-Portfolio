@@ -27,17 +27,17 @@
   ],
   "portfolio": [
       {
+          "id": "2",
+          "src": "./img/placeholder-image-1.png",
+          "title": "Ecommerce Website",
+          "description": "lorem ipsum dolor sit amet consectetur adipicing ",
+          "Link":"https://classy-banoffee-e898e1.netlify.app/"
+      },
+      {
           "id": "1",
           "src": "./img/placeholder-image.png",
           "title": "Calculator",
           "description": "Created a calculator using react",
-          "Link":"./Calculator.jsx"
-      },
-      {
-          "id": "2",
-          "src": "./img/placeholder-image-1.png",
-          "title": "App Dashboard",
-          "description": "lorem ipsum dolor sit amet consectetur adipicing ",
           "Link":"./Calculator.jsx"
       },
       {
